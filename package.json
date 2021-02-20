@@ -1,0 +1,14 @@
+{
+  "name": "creating_a_jalbang_image",
+  "version": "1.0.0",
+  "description": "creating_a_jalbang with node.js and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dragoo Cho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
